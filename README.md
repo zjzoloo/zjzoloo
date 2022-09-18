@@ -9,7 +9,6 @@
 
 - :notebook: **Computer Science** Student at **RWTH Aachen** :de:
 - 🤔 Interested in all area of Computer Science
-- 😄 Penetration testing as a hobby 
 - :heart: Love to solve algorithmic problems
 - :computer: Want to share everything I've learned
 <br></br>
