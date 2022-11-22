@@ -21,7 +21,7 @@
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> Achievement</h2>
 
 - Winner of Hackathon | Hackathon Youth 2016 - **Ulaanbaatar, Mongolia**
--   7th Place of Catalyst Coding Contest | 2019 - **Aachen, Germany**
 -   Top 10 of Hall of Fame in [HackTheBox](https://www.hackthebox.eu/) (2020)
+-   3rd Place of Catalyst Coding Contest | 2022 - **Cologne, Germany**
 
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
