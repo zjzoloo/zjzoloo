@@ -10,7 +10,7 @@
 - :notebook: **Computer Science** Student at **RWTH Aachen** :de:.
 - 🤔 Interested in all area of Computer Science.
 - :heart: Love to solve algorithmic problems.
-- :computer: Currently working as Python Developer on AIStudyBuddy Project.
+- :computer: Currently working as Python Developer on [AIStudyProject]([https://www.hackthebox.eu/](https://learntech.rwth-aachen.de/cms/LearnTech/Forschung/Projekte/~siepo/AIStudyBuddy/?lidx=1)).
 <br></br>
 
 
