@@ -7,10 +7,10 @@
 
 <img align ="right" src = "https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/linux.png" width="250" height="250">
 
-- :notebook: **Computer Science** Student at **RWTH Aachen** :de:
-- 🤔 Interested in all area of Computer Science
-- :heart: Love to solve algorithmic problems
-- :computer: Want to share everything I've learned
+- :notebook: **Computer Science** Student at **RWTH Aachen** :de:.
+- 🤔 Interested in all area of Computer Science.
+- :heart: Love to solve algorithmic problems.
+- :computer: Currently working as Python Developer on AIStudyBuddy Project.
 <br></br>
 
 
