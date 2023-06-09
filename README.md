@@ -16,6 +16,6 @@
 
 - Winner of Hackathon | Hackathon Youth 2016 - **Ulaanbaatar, Mongolia**
 -   Top 10 of Hall of Fame in [HackTheBox](https://www.hackthebox.eu/) (2020)
--   3rd Place of Catalyst Coding Contest | 2022 - **Germany**
+-   1st Place of Catalyst Coding Contest AI | 2023 - **Germany**
 
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
