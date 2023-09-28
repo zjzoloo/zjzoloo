@@ -12,9 +12,9 @@
 
 
 <h2> Experience </h2>
-- :computer: Worked as Python Developer on [AIStudyBuddy Project](https://learntech.rwth-aachen.de/cms/LearnTech/Forschung/Projekte/~siepo/AIStudyBuddy/?lidx=1).
+- :computer: Worked as Python Developer on AIStudyBuddy Project.
 <br></br>
-- :computer: Currently working as Python Developer at IEK-10 department of [Jülich Forschungszentrum](https://www.fz-juelich.de/de)
+- :computer: Currently working as Python Developer at IEK-10 department of Jülich Forschungszentrum
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> Achievement</h2>
 
