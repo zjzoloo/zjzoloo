@@ -1,7 +1,6 @@
 <h2> Hi, I'm zjzoloo | Zoljargal Gantumur</h2>
 <p>
   <a href="https://www.linkedin.com/in/zoljargalgantumur" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/zjzoloo" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
 
 <img align ="right" src = "https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/linux.png" width="250" height="250">
