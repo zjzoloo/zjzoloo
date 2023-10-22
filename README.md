@@ -14,7 +14,7 @@
 <h2> Experience </h2>
 - :computer: Worked as Python Developer on AIStudyBuddy Project.
 <br> </br>
-- :computer: Currently working as Python Developer at IEK-10 department of Jülich Forschungszentrum
+- :computer: Currently working as Python Developer at IEK-10 department of Forschungszentrum Jülich
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> Achievement</h2>
 
