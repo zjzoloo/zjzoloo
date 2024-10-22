@@ -17,7 +17,6 @@
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> Achievement</h2>
 
-- Winner of Hackathon | Hackathon Youth 2016 - **Ulaanbaatar, Mongolia**
 -   Top 10 of Hall of Fame in [HackTheBox](https://www.hackthebox.eu/) (2020)
 -   1st Place of Catalyst Coding Contest AI | 2023 - **Germany**
 
