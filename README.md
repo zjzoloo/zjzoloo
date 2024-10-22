@@ -11,7 +11,7 @@
 
 
 <h2> Experience </h2>
-- :computer: Worked as Python Developer on AIStudyBuddy Project.
+- :computer: Worked as Python Developer on AIStudyBuddy Project at RWTH Aachen University.
 <br>
 - :computer: Worked as Python Developer at IEK-10 department of Forschungszentrum Jülich
 
