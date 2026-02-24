@@ -14,6 +14,7 @@
 - :computer: Worked as Python Developer on AIStudyBuddy Project at RWTH Aachen University.
 <br>
 - :computer: Worked as Python Developer at IEK-10 department of Forschungszentrum Jülich
+- :computer: Worked as Python Developer on TrainSpot2 Project at RWTH Aachen University.
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> Achievement</h2>
 
