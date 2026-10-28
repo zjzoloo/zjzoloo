@@ -10,6 +10,7 @@ Full-stack developer (Python, FastAPI, React, Kubernetes) and final-year Compute
 - **Living Lab Energy Campus booking tool** · Forschungszentrum Jülich: FastAPI, React and PostgreSQL tool for booking V2G-capable electric vehicles, built end to end and in internal use on the Jülich campus.
 - **Research-literature pipelines** · Uniklinik RWTH Aachen: automated PubMed and Google Scholar collection plus NLP trend analysis (TF-IDF, LDA, BERT).
 - **AIStudyBuddy** · RWTH Aachen: AI-based study-planning tools combining process mining and Answer Set Programming.
+
 The code for these lives in my employers' repositories; this profile holds personal and coursework projects.
  
 ## Highlights
